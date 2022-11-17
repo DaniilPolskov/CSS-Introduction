@@ -1,0 +1,30 @@
+html {
+    background-color: darkslateblue;
+}
+
+div {
+    font-size: 50px;
+    text-align: center;
+    margin-top:100px;
+}
+
+#first{
+    background-color:cornflowerblue;
+    margin-left: 30px;
+    margin-right: 30px ;
+}
+
+#second{
+    background-color: khaki;
+    margin-left: 60px;
+    margin-right: 60px;
+    border: 15px solid black;
+    padding-top: 50px;
+    height: 300px;
+    width: 300px;
+    border-radius: 50px;
+}
+
+.start{
+    font-size: 20px;
+}

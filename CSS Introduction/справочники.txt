@@ -1,0 +1,4 @@
+https://webref.ru/html/attr/style
+https://webref.ru/css
+https://cssreference.io/
+https://learn.javascript.ru/css-selectors
